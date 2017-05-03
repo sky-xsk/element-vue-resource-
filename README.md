@@ -17,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/sky-xsk/element-vue-resource-/blob/master/images/1.png)
+![image](https://github.com/sky-xsk/element-vue-resource-/blob/master/images/2.png)
+![image](https://github.com/sky-xsk/element-vue-resource-/blob/master/images/3.png)
+![image](https://github.com/sky-xsk/element-vue-resource-/blob/master/images/4.png)
