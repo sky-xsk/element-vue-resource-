@@ -1,6 +1,7 @@
 # webproject
 
-> webproject
+> 用elementui+vueresource做的一个关于“增删查改”的小例子；
+注意：用的是本地的接口，你们拿下来看不到效果，只能看看代码！仅供参考！
 
 ## Build Setup
 
